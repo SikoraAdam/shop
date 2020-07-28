@@ -1,1 +1,1 @@
-E-commerce shop for bachelor degree
+Simple e-commerce project Java + Angular
